@@ -1,0 +1,6 @@
+# Ignore everything
+*
+
+# Exept the scripts
+!*.m
+!.gitignore
